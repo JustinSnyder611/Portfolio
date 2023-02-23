@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/ULTRA-COOL-PORTFOLIO/static/css/main.3488f456.css",
-    "main.js": "/ULTRA-COOL-PORTFOLIO/static/js/main.14b143de.js",
+    "main.css": "/ULTRA-COOL-PORTFOLIO/static/css/main.cfda29fc.css",
+    "main.js": "/ULTRA-COOL-PORTFOLIO/static/js/main.2bdf6bbd.js",
     "static/js/787.98c6daf7.chunk.js": "/ULTRA-COOL-PORTFOLIO/static/js/787.98c6daf7.chunk.js",
+    "static/media/img1.jpg": "/ULTRA-COOL-PORTFOLIO/static/media/img1.d9807e6a516e10c63675.jpg",
+    "static/media/WikiTube.png": "/ULTRA-COOL-PORTFOLIO/static/media/WikiTube.4274cf6a5ff623a70339.png",
+    "static/media/GamingGods.png": "/ULTRA-COOL-PORTFOLIO/static/media/GamingGods.6f9d68a386881f79738a.png",
+    "static/media/ProjectTracker.png": "/ULTRA-COOL-PORTFOLIO/static/media/ProjectTracker.7d27f863194190654010.png",
+    "static/media/resume.png": "/ULTRA-COOL-PORTFOLIO/static/media/resume.9bf6b7e366b3eabd7f5d.png",
     "index.html": "/ULTRA-COOL-PORTFOLIO/index.html",
-    "main.3488f456.css.map": "/ULTRA-COOL-PORTFOLIO/static/css/main.3488f456.css.map",
-    "main.14b143de.js.map": "/ULTRA-COOL-PORTFOLIO/static/js/main.14b143de.js.map",
+    "main.cfda29fc.css.map": "/ULTRA-COOL-PORTFOLIO/static/css/main.cfda29fc.css.map",
+    "main.2bdf6bbd.js.map": "/ULTRA-COOL-PORTFOLIO/static/js/main.2bdf6bbd.js.map",
     "787.98c6daf7.chunk.js.map": "/ULTRA-COOL-PORTFOLIO/static/js/787.98c6daf7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3488f456.css",
-    "static/js/main.14b143de.js"
+    "static/css/main.cfda29fc.css",
+    "static/js/main.2bdf6bbd.js"
   ]
 }
