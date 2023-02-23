@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.05651973.css",
-    "main.js": "/Portfolio/static/js/main.8712a770.js",
-    "static/js/787.b98c23e5.chunk.js": "/Portfolio/static/js/787.b98c23e5.chunk.js",
+    "main.js": "/Portfolio/static/js/main.732cc490.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/img1.jpg": "/Portfolio/static/media/img1.d9807e6a516e10c63675.jpg",
     "static/media/WikiTube.png": "/Portfolio/static/media/WikiTube.4274cf6a5ff623a70339.png",
     "static/media/GamingGods.png": "/Portfolio/static/media/GamingGods.6f9d68a386881f79738a.png",
@@ -10,11 +10,11 @@
     "static/media/resume.png": "/Portfolio/static/media/resume.9bf6b7e366b3eabd7f5d.png",
     "index.html": "/Portfolio/index.html",
     "main.05651973.css.map": "/Portfolio/static/css/main.05651973.css.map",
-    "main.8712a770.js.map": "/Portfolio/static/js/main.8712a770.js.map",
-    "787.b98c23e5.chunk.js.map": "/Portfolio/static/js/787.b98c23e5.chunk.js.map"
+    "main.732cc490.js.map": "/Portfolio/static/js/main.732cc490.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.05651973.css",
-    "static/js/main.8712a770.js"
+    "static/js/main.732cc490.js"
   ]
 }
