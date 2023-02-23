@@ -1,26 +1,19 @@
-# ULTRA-COOL-PORTFOLIO
+# My-Portfolio
 
 ## Description
 
-I learned how to use react to build a professional portfolio to conduct my carrer going forword.
+This is my professional Portfolio!
 
 ## Table of Contents
 
-Link to Site:
+Link to Site: https://justinsnyder611.github.io/Portfolio/#/
 
-- [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
 - [License](#license)
-
 
 ## Usage
 
 To use this application all you need to do is click the link in the Table of Contents and you will be taken to the site.
-
-## Credits
-
-www.w3schools.com
 
 ## License
 MIT License
